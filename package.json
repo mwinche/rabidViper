@@ -1,0 +1,14 @@
+{
+  "name": "rabidViper",
+  "version": "0.0.0",
+  "description": "Turntable Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Matt Winchester",
+  "license": "MIT",
+  "dependencies": {
+    "ttapi": "~3.1.2"
+  }
+}
